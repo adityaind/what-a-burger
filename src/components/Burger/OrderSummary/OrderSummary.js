@@ -5,9 +5,6 @@ import Auxiliary from '../../../hoc/Auxiliary/Auxiliary';
 import Button from '../../UI/Button/Button';
 
 class OrderSummary extends Component{
-	componentDidUpdate(){
-		console.log('oredr summary will update')
-	}
 
 	render(){
 
